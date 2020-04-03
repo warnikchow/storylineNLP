@@ -2,21 +2,21 @@
 A Curriculum-Style Introduction on Computational Linguistics
 
 ### Outline:
-[1. Word Representations](https://github.com/warnikchow/storylineNLP#word-representations)
-[2. Tokenization and Character-Level Modeling](https://github.com/warnikchow/storylineNLP#tokenization-and-character-level-modeling)
-[3. Classical NLP Pipeline](https://github.com/warnikchow/storylineNLP#classical-nlp-pipeline)
-[4. Sentence-Level Analysis](https://github.com/warnikchow/storylineNLP#sentence-level-analysis)
-[5. Document-Level Analysis](https://github.com/warnikchow/storylineNLP#document-level-analysis)
-[6. Attention Models for Translation and Generation](https://github.com/warnikchow/storylineNLP#attention-models-for-translation-and-generation)
-[7. Unsupervised Pretrained LMs and Transfer Learning](https://github.com/warnikchow/storylineNLP#unsupervised-pretrained-lms-and-transfer-learning)
+[1. Word Representations](https://github.com/warnikchow/storylineNLP#word-representations)</br>
+[2. Tokenization and Character-Level Modeling](https://github.com/warnikchow/storylineNLP#tokenization-and-character-level-modeling)</br>
+[3. Classical NLP Pipeline](https://github.com/warnikchow/storylineNLP#classical-nlp-pipeline)</br>
+[4. Sentence-Level Analysis](https://github.com/warnikchow/storylineNLP#sentence-level-analysis)</br>
+[5. Document-Level Analysis](https://github.com/warnikchow/storylineNLP#document-level-analysis)</br>
+[6. Attention Models for Translation and Generation](https://github.com/warnikchow/storylineNLP#attention-models-for-translation-and-generation)</br>
+[7. Unsupervised Pretrained LMs and Transfer Learning](https://github.com/warnikchow/storylineNLP#unsupervised-pretrained-lms-and-transfer-learning)</br>
 
 ### References:
 
-- Repositories on NLP papers
--- https://github.com/mhagiwara/100-nlp-papers
--- https://github.com/THUNLP-MT/MT-Reading-List
-- Well-described NLP blog (in Korean)
--- https://wikidocs.net/21667
+- Repositories on the awesome NLP papers</br>
+https://github.com/mhagiwara/100-nlp-papers</br>
+https://github.com/THUNLP-MT/MT-Reading-List</br>
+- Well-described NLP blog (in Korean)</br>
+https://wikidocs.net/21667
 
 ### Acronyms:
 
