@@ -33,11 +33,11 @@ https://wikidocs.net/21667
 
 ## Word Representations
 
-- Bengio et al., A Neural Probabilistic Language Model, JMLR, 2003. [RNNLM]
-- Mikolov et al., Distributed Representations of Words and Phrases and their Compositionality, NIPS 2013. [word2vec]
-- Mikolov et al., Efficient Estimation of Word Representations in Vector Space, ICLR 2013.
-- Pennington et al., GloVe: Global Vectors for Word Representation, EMNLP 2014. [GloVe]
-- Bojanowski et al., Enriching Word Vectors with Subword Information, TACL, 2017. [fastText]
+- Bengio et al., [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/v3/bengio03a.html?source=post_page---------------------------), JMLR, 2003. [RNNLM]
+- Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and), NIPS 2013. [word2vec]
+- Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), ICLR 2013.
+- Pennington et al., [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/), EMNLP 2014. [GloVe]
+- Bojanowski et al., [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051), TACL, 2017. [fastText]
 
 ## Tokenization and Character-Level Modeling
 
@@ -48,49 +48,49 @@ https://wikidocs.net/21667
 
 ## Classical NLP Pipeline 
 
-- Collobert et al., Natural Language Processing (almost) from Scratch, JMLR, 2011.
-- Marcus et al., Building a large annotated corpus of English: The Penn Treebank, 1993. [PTB]
-- Palmer et al., The proposition bank: An annotated corpus of semantic roles, CL, 2005. [PropBank]
-- Strubell et al., Linguistically-Informed Self-Attention for Semantic Role Labeling, EMNLP 2018. [LISA]
+- Collobert et al., [Natural Language Processing (almost) from Scratch](https://arxiv.org/abs/1103.0398), JMLR, 2011.
+- Marcus et al., [Building a large annotated corpus of English: The Penn Treebank](https://repository.upenn.edu/cis_reports/237/), 1993. [PTB]
+- Palmer et al., [The proposition bank: An annotated corpus of semantic roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. [PropBank]
+- Strubell et al., [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199), EMNLP 2018. [LISA]
 
 ## Sentence-Level Analysis
 
-- Pustejovsky and Stubbs, Natural Language Annotation for Machine Learning, O'Reilly, 2012.
-- Maas et al., Learning Word Vectors for Sentiment Analysis, ACL 2011. [IMDB]
-- Socher et al., Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, EMNLP 2013. [SST]
-- Stolcke et al., Dialogue act modeling for automatic tagging and recognition of conversational speech, CL, 2000. [SWBD DA]
-- Hemphill et al., The ATIS spoken language systems pilot corpus, SNL 1990. [ATIS]
-- Kim, Convolutional neural networks for sentence classification, EMNLP 2014. [KimCNN]
-- Liu and Lane, Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling, Interspeech 2016.
+- Pustejovsky and Stubbs, [Natural Language Annotation for Machine Learning](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Natural%20Language%20Annotation%20for%20Machine%20Learning_%20A%20Guide%20to%20Corpus-...%20%5BPustejovsky%20%26%20Stubbs%202012-11-04%5D.pdf), O'Reilly, 2012.
+- Maas et al., [Learning Word Vectors for Sentiment Analysis](https://dl.acm.org/doi/10.5555/2002472.2002491), ACL 2011. [IMDB]
+- Socher et al., [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://www.aclweb.org/anthology/D13-1170/), EMNLP 2013. [SST]
+- Stolcke et al., [Dialogue act modeling for automatic tagging and recognition of conversational speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. [SWBD DA]
+- Hemphill et al., [The ATIS spoken language systems pilot corpus](https://www.aclweb.org/anthology/H90-1021/), SNL 1990. [ATIS]
+- Kim, [Convolutional neural networks for sentence classification](https://arxiv.org/abs/1408.5882), EMNLP 2014. [KimCNN]
+- Liu and Lane, [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454), Interspeech 2016.
 
 ## Document-Level Analysis
 
-- Tang et al., Document modeling with gated recurrent neural network for sentiment classification, EMNLP 2015. 
-- Rajpurkar et al., SQuAD: 100,000+ Questions for Machine Comprehension of Text, EMNLP 2016. [SQuAD]
-- Chen et al., Reading Wikipedia to Answer Open-Domain Questions, ACL 2017.
-- Xiong et al., Dynamic Coattention Networks For Question Answering, ICLR 2017.
-- Mihalcea and Tarau, TextRank: Bringing Order into Texts, EMNLP 2004.
-- Rush et al., A Neural Attention Model for Abstractive Sentence Summarization, EMNLP 2015.
-- See et al., Get To The Point: Summarization with Pointer-Generator Networks, ACL 2017. [Pointer-Generator]
+- Tang et al., [Document modeling with gated recurrent neural network for sentiment classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
+- Rajpurkar et al., [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250), EMNLP 2016. [SQuAD]
+- Chen et al., [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051), ACL 2017.
+- Xiong et al., [Dynamic Coattention Networks For Question Answering](https://arxiv.org/abs/1611.01604), ICLR 2017.
+- Mihalcea and Tarau, [TextRank: Bringing Order into Texts](https://www.aclweb.org/anthology/W04-3252/), EMNLP 2004.
+- Rush et al., [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685), EMNLP 2015.
+- See et al., [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368), ACL 2017. [Pointer-Generator]
 
 ## Attention Models for Translation and Generation
 
-- Sutskever et al., Sequence to Sequence Learning with Neural Networks, NIPS 2014. [Seq2Seq]
-- Cho et al., Learning phrase representations using RNN encoder-decoder for statistical machine translation, EMNLP 2014. [RNN Encoder-decoder]
-- Bahdanau et al., Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015. [Bahdanau Attention]
-- Luong et al., Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015. [Luong Attention]
-- Wu et al., Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation, 2016. [GNMT]
-- Johnson et al., Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation, TACL, 2017. [Google Multilingual NMT]
-- Artetxe et al., Unsupervised Neural Machine Translation, ICLR 2018. 
-- Vaswani et al., Attention Is All You Need, NIPS 2017. [Transformer]
+- Sutskever et al., [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-), NIPS 2014. [Seq2Seq]
+- Cho et al., [Learning phrase representations using RNN encoder-decoder for statistical machine translation](https://arxiv.org/abs/1406.1078), EMNLP 2014. [RNN Encoder-decoder]
+- Bahdanau et al., [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473), ICLR 2015. [Bahdanau Attention]
+- Luong et al., [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025), EMNLP 2015. [Luong Attention]
+- Wu et al., [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144), 2016. [GNMT]
+- Johnson et al., [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00065), TACL, 2017. [Google Multilingual NMT]
+- Artetxe et al., [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041), ICLR 2018. 
+- Vaswani et al., [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), NIPS 2017. [Transformer]
 
 ## Unsupervised Pretrained LMs and Transfer Learning
 
-- Wang et al., Glue: A multi-task benchmark and analysis platform for natural language understanding, ICLR 2019. [GLUE]
-- Peters et al., Deep contextualized word representations, NAACL 2018. [ELMo]
-- Radford et al., Improving Language Understanding by Generative Pre-Training, 2018. [OpenAI GPT]
-- Devlin et al., BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019. [BERT]
-- Tenney et al., BERT Rediscovers the Classical NLP Pipeline, ACL 2019.
-- Song et al., MASS: Masked Sequence to Sequence Pre-training for Language Generation, ICML 2019. [MASS]
-- Radford et al., Language Models are Unsupervised Multitask Learners, 2019. [OpenAI GPT2]
-- Adiwardana et al., Towards a Human-like Open-Domain Chatbot, 2020. [Meena]
+- Wang et al., [Glue: A multi-task benchmark and analysis platform for natural language understanding](https://arxiv.org/abs/1804.07461), ICLR 2019. [GLUE]
+- Peters et al., [Deep contextualized word representations](https://arxiv.org/abs/1802.05365), NAACL 2018. [ELMo]
+- Radford et al., [Improving Language Understanding by Generative Pre-Training](https://openai.com/blog/language-unsupervised/), 2018. [OpenAI GPT]
+- Devlin et al., [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), NAACL 2019. [BERT]
+- Tenney et al., [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950), ACL 2019.
+- Song et al., [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450), ICML 2019. [MASS]
+- Radford et al., [Language Models are Unsupervised Multitask Learners](https://openai.com/blog/better-language-models/), 2019. [OpenAI GPT2]
+- Adiwardana et al., [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977), 2020. [Meena]
