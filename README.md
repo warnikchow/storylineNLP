@@ -41,10 +41,10 @@ https://wikidocs.net/21667
 
 ## Tokenization and Character-Level Modeling
 
-- Sennrich et al., Neural Machine Translation of Rare Words with Subword Units. ACL 2016. [BPE]
-- Schuster and Nakajima, Japanese and korean voice search. ICASSP 2012. [WPM]
-- Kudo, Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates, 2018.
-- Zhang et al., Character-level Convolutional Networks for Text Classification, NIPS 2015. [charCNN]
+- Sennrich et al., [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909), ACL 2016. [BPE]
+- Schuster and Nakajima, [Japanese and korean voice search](https://ieeexplore.ieee.org/abstract/document/6289079), ICASSP 2012. [WPM]
+- Kudo, [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959), 2018.
+- Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. [charCNN]
 
 ## Classical NLP Pipeline 
 
