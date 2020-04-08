@@ -69,7 +69,7 @@ https://wikidocs.net/21667
 - Rajpurkar et al., [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250), EMNLP 2016. [SQuAD]
 - Chen et al., [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051), ACL 2017.
 - Xiong et al., [Dynamic Coattention Networks For Question Answering](https://arxiv.org/abs/1611.01604), ICLR 2017.
-- Mihalcea and Tarau, [TextRank: Bringing Order into Texts](https://www.aclweb.org/anthology/W04-3252/), EMNLP 2004.
+- Mihalcea and Tarau, [TextRank: Bringing Order into Texts](https://www.aclweb.org/anthology/W04-3252/), EMNLP 2004. [TextRank]
 - Rush et al., [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685), EMNLP 2015.
 - See et al., [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368), ACL 2017. [Pointer-Generator]
 
@@ -81,8 +81,8 @@ https://wikidocs.net/21667
 - Luong et al., [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025), EMNLP 2015. [Luong Attention]
 - Wu et al., [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144), 2016. [GNMT]
 - Johnson et al., [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00065), TACL, 2017. [Google Multilingual NMT]
-- Artetxe et al., [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041), ICLR 2018. 
-- Vaswani et al., [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), NIPS 2017. [Transformer]
+- Artetxe et al., [Unsupervised Neural Machine Translation](https://arxiv.org/abs/1710.11041), ICLR 2018. [Unsupervised NMT]
+- Vaswani et al., [Attention Is All You Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need), NIPS 2017. [Transformer, Self-attention]
 
 ## Unsupervised Pretrained LMs and Transfer Learning
 
