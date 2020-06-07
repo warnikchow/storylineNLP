@@ -25,6 +25,7 @@ https://wikidocs.net/21667
 - CL: Computational Linguistics
 - NIPS: Neural Information Processing Systems (currently NeurIPS)
 - ICLR: International Conference on Learning Representations
+- AAAI: Conference on Artificial Intelligence, by Association for the Advancement of Artificial Intelligence
 - ICASSP: International Conference on Acoustics, Speech, and Signal Processing
 - ACL: Annual Meeting of the Association for Computational Linguistics 
 - NAACL: North American Chapter of the Association for Computational Linguistics
@@ -35,16 +36,18 @@ https://wikidocs.net/21667
 
 - Bengio et al., [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/v3/bengio03a.html?source=post_page---------------------------), JMLR, 2003. [RNNLM]
 - Mikolov et al., [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and), NIPS 2013. [word2vec]
-- Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), ICLR 2013.
+- Mikolov et al., [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781), ICLR 2013. [Analogy Test]
 - Pennington et al., [GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162/), EMNLP 2014. [GloVe]
 - Bojanowski et al., [Enriching Word Vectors with Subword Information](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00051), TACL, 2017. [fastText]
 
 ## Tokenization and Character-Level Modeling
 
-- Sennrich et al., [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909), ACL 2016. [BPE]
 - Schuster and Nakajima, [Japanese and korean voice search](https://ieeexplore.ieee.org/abstract/document/6289079), ICASSP 2012. [WPM]
-- Kudo, [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959), ACL 2018.
-- Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. [charCNN]
+- Sennrich et al., [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909), ACL 2016. [BPE]
+- Kudo, [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959), ACL 2018. [Subword]
+- Kudo and Richardson, [SentencePiece: A Simple and Language Independent Subword Tokenizer and Detokenizer for Neural Text Processing](https://arxiv.org/abs/1808.06226), EMNLP 2018. [SentencePiece]
+- Kim et al., [Character-Aware Neural Language Models](https://arxiv.org/abs/1508.06615), AAAI 2016. [Character-level]
+- Zhang and Lecun, [Which Encoding is the Best for Text Classification in Chinese, English, Japanese and Korean?](https://arxiv.org/abs/1708.02657)
 
 ## Classical NLP Pipeline 
 
@@ -53,22 +56,39 @@ https://wikidocs.net/21667
 - Palmer et al., [The proposition bank: An annotated corpus of semantic roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. [PropBank]
 - Strubell et al., [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199), EMNLP 2018. [LISA]
 
-## Sentence-Level Analysis
+## Corpus Construction
 
 - Pustejovsky and Stubbs, [Natural Language Annotation for Machine Learning](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Natural%20Language%20Annotation%20for%20Machine%20Learning_%20A%20Guide%20to%20Corpus-...%20%5BPustejovsky%20%26%20Stubbs%202012-11-04%5D.pdf), O'Reilly, 2012.
+
+#### Sentiment
 - Maas et al., [Learning Word Vectors for Sentiment Analysis](https://dl.acm.org/doi/10.5555/2002472.2002491), ACL 2011. [IMDB]
 - Socher et al., [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://www.aclweb.org/anthology/D13-1170/), EMNLP 2013. [SST]
-- Stolcke et al., [Dialogue act modeling for automatic tagging and recognition of conversational speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. [SWBD DA]
+- Bo and Lee, [A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts](https://dl.acm.org/doi/10.3115/1218955.1218990), ACL 2004. [Subjectivity]
+
+#### Intent
+- Stolcke et al., [Dialogue act modeling for automatic tagging and recognition of conversational speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. [SWBD Dialog Act]
 - Hemphill et al., [The ATIS spoken language systems pilot corpus](https://www.aclweb.org/anthology/H90-1021/), SNL 1990. [ATIS]
+- Lugosch et al., [Speech Model Pre-training for End-to-End Spoken Language Understanding](https://arxiv.org/abs/1904.03670), Interspeech 2019. [Fluent Speech Command]
+
+#### QA
+- Yang et al., [WikiQA: A Challenge Dataset for Open-Domain Question Answering](https://www.aclweb.org/anthology/D15-1237/), ACL 2015. [WikiQA]
+- Rajpurkar et al., [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250), EMNLP 2016. [SQuAD]
+
+## Sentence-Level Analysis
+
 - Kim, [Convolutional neural networks for sentence classification](https://arxiv.org/abs/1408.5882), EMNLP 2014. [KimCNN]
-- Liu and Lane, [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454), Interspeech 2016.
+- Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. [charCNN]
+- Tang et al., [Document modeling with gated recurrent neural network for sentiment classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
+- Liu and Lane, [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454), Interspeech 2016. 
+- Lin et al., [A Structured Self-Attentive Sentence Embedding](https://arxiv.org/abs/1703.03130), ICLR 2017. 
 
 ## Document-Level Analysis
 
-- Tang et al., [Document modeling with gated recurrent neural network for sentiment classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
-- Rajpurkar et al., [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250), EMNLP 2016. [SQuAD]
+#### MRQA
 - Chen et al., [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051), ACL 2017.
 - Xiong et al., [Dynamic Coattention Networks For Question Answering](https://arxiv.org/abs/1611.01604), ICLR 2017.
+
+#### Summarization
 - Mihalcea and Tarau, [TextRank: Bringing Order into Texts](https://www.aclweb.org/anthology/W04-3252/), EMNLP 2004. [TextRank]
 - Rush et al., [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685), EMNLP 2015.
 - See et al., [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368), ACL 2017. [Pointer-Generator]
