@@ -78,7 +78,7 @@ https://wikidocs.net/21667
 ## Sentence-Level Analysis
 
 - Kim, [Convolutional neural networks for sentence classification](https://arxiv.org/abs/1408.5882), EMNLP 2014. **[KimCNN]**
-- Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. **[charCNN]**
+- Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. **[CharCNN]**
 - Tang et al., [Document modeling with gated recurrent neural network for sentiment classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
 - Liu and Lane, [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454), Interspeech 2016. 
 - Lin et al., [A Structured Self-Attentive Sentence Embedding](https://arxiv.org/abs/1703.03130), ICLR 2017. 
