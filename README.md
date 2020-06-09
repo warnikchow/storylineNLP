@@ -55,7 +55,7 @@ https://wikidocs.net/21667
 
 ## Tokenization and Character-Level Modeling
 
-- Schuster and Nakajima, [Japanese and korean voice search](https://ieeexplore.ieee.org/abstract/document/6289079), ICASSP 2012. **[WPM]**
+- Schuster and Nakajima, [Japanese and Korean Voice Search](https://ieeexplore.ieee.org/abstract/document/6289079), ICASSP 2012. **[WPM]**
 - Sennrich et al., [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909), ACL 2016. **[BPE]**
 - Kudo, [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/abs/1804.10959), ACL 2018. **[Subword]**
 - Kudo and Richardson, [SentencePiece: A Simple and Language Independent Subword Tokenizer and Detokenizer for Neural Text Processing](https://arxiv.org/abs/1808.06226), EMNLP 2018. **[SentencePiece]**
@@ -67,8 +67,8 @@ https://wikidocs.net/21667
 - Collobert et al., [Natural Language Processing (almost) from Scratch](https://arxiv.org/abs/1103.0398), JMLR, 2011.
 
 #### xxBanks and Methods
-- Marcus et al., [Building a large annotated corpus of English: The Penn Treebank](https://repository.upenn.edu/cis_reports/237/), 1993. **[PTB]**
-- Palmer et al., [The proposition bank: An annotated corpus of semantic roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. **[PropBank]**
+- Marcus et al., [Building a Large Annotated Corpus of English: The Penn Treebank](https://repository.upenn.edu/cis_reports/237/), 1993. **[PTB]**
+- Palmer et al., [The Proposition Bank: An Annotated Corpus of Semantic Roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. **[PropBank]**
 - Strubell et al., [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199), EMNLP 2018. **[LISA]**
 - Tenney et al., [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950), ACL 2019.
 
@@ -83,14 +83,14 @@ https://wikidocs.net/21667
 
 #### Intent
 - Hemphill et al., [The ATIS Spoken Language Systems Pilot Corpus](https://www.aclweb.org/anthology/H90-1021/), SNL 1990. **[ATIS]**
-- Stolcke et al., [Dialogue act modeling for automatic tagging and recognition of conversational speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. **[SWBD Dialog Act]**
+- Stolcke et al., [Dialogue Act Modeling for Automatic Tagging and Recognition of Conversational Speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. **[SWBD Dialog Act]**
 - Lugosch et al., [Speech Model Pre-training for End-to-End Spoken Language Understanding](https://arxiv.org/abs/1904.03670), Interspeech 2019. **[Fluent Speech Command]**
 
 ## Sentence-Level Analysis
 
-- Kim, [Convolutional neural networks for sentence classification](https://arxiv.org/abs/1408.5882), EMNLP 2014. **[KimCNN]**
+- Kim, [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), EMNLP 2014. **[KimCNN]**
 - Zhang et al., [Character-level Convolutional Networks for Text Classification](http://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classifica), NIPS 2015. **[CharCNN]**
-- Tang et al., [Document modeling with gated recurrent neural network for sentiment classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
+- Tang et al., [Document Modeling with Gated Recurrent Neural Network for Sentiment Classification](https://www.aclweb.org/anthology/D15-1167/), EMNLP 2015. 
 - Liu and Lane, [Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling](https://arxiv.org/abs/1609.01454), Interspeech 2016. 
 - Lin et al., [A Structured Self-Attentive Sentence Embedding](https://arxiv.org/abs/1703.03130), ICLR 2017. 
 
@@ -110,7 +110,7 @@ https://wikidocs.net/21667
 ## Attention Models for Translation and Generation
 
 - Sutskever et al., [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-), NIPS 2014. **[Seq2Seq]**
-- Cho et al., [Learning phrase representations using RNN encoder-decoder for statistical machine translation](https://arxiv.org/abs/1406.1078), EMNLP 2014. **[RNN Encoder-decoder]**
+- Cho et al., [Learning Phrase Representations Using RNN Encoder-Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), EMNLP 2014. **[RNN Encoder-decoder]**
 - Bahdanau et al., [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473), ICLR 2015. **[Bahdanau Attention]**
 - Luong et al., [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025), EMNLP 2015. **[Luong Attention]**
 - Wu et al., [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144), 2016. **[GNMT]**
@@ -121,7 +121,7 @@ https://wikidocs.net/21667
 ## Unsupervised Pretrained LMs and Transfer Learning
 
 - Wang et al., [Glue: A multi-task benchmark and analysis platform for natural language understanding](https://arxiv.org/abs/1804.07461), ICLR 2019. **[GLUE]**
-- Peters et al., [Deep contextualized word representations](https://arxiv.org/abs/1802.05365), NAACL 2018. **[ELMo]**
+- Peters et al., [Deep Contextualized Word Representations](https://arxiv.org/abs/1802.05365), NAACL 2018. **[ELMo]**
 - Radford et al., [Improving Language Understanding by Generative Pre-Training](https://openai.com/blog/language-unsupervised/), 2018. **[OpenAI GPT]**
 - Devlin et al., [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), NAACL 2019. **[BERT]**
 - Song et al., [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450), ICML 2019. **[MASS]**
