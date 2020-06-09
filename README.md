@@ -37,7 +37,7 @@ https://wikidocs.net/21667
 - EMNLP: Conference on Empirical Methods in Natural Language Processing
 - SNL: The Workshop on Speech and Natural Language
 
-#### Featured Language (processing) -friendly Venues
+#### A Featured List of Language-friendly Venues
 
 - **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoNLL, CoLing** (Natural language processing and computational linguistics)
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
