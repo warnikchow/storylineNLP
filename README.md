@@ -66,10 +66,11 @@ https://wikidocs.net/21667
 
 - Collobert et al., [Natural Language Processing (almost) from Scratch](https://arxiv.org/abs/1103.0398), JMLR, 2011.
 
-#### xxBanks
+#### xxBanks and Methods
 - Marcus et al., [Building a large annotated corpus of English: The Penn Treebank](https://repository.upenn.edu/cis_reports/237/), 1993. **[PTB]**
 - Palmer et al., [The proposition bank: An annotated corpus of semantic roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. **[PropBank]**
 - Strubell et al., [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199), EMNLP 2018. **[LISA]**
+- Tenney et al., [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950), ACL 2019.
 
 ## Corpus Construction
 
@@ -123,7 +124,6 @@ https://wikidocs.net/21667
 - Peters et al., [Deep contextualized word representations](https://arxiv.org/abs/1802.05365), NAACL 2018. **[ELMo]**
 - Radford et al., [Improving Language Understanding by Generative Pre-Training](https://openai.com/blog/language-unsupervised/), 2018. **[OpenAI GPT]**
 - Devlin et al., [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805), NAACL 2019. **[BERT]**
-- Tenney et al., [BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950), ACL 2019.
 - Song et al., [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/abs/1905.02450), ICML 2019. **[MASS]**
 - Radford et al., [Language Models are Unsupervised Multitask Learners](https://openai.com/blog/better-language-models/), 2019. **[OpenAI GPT2]**
 
