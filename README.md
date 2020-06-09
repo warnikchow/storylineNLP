@@ -43,7 +43,7 @@ https://wikidocs.net/21667
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
 - **LREC, SemEval, WMT, IWSLT** (Resources and evaluation)
 - **SIGIR, KDD, ICDM, CIKM** (Information retrieval)
-- **WWW, WSDM, ICWSM** (Web and social media)
+- **WSDM, ICWSM** (Web and social media)
 
 ## Word Representations
 
