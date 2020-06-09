@@ -22,7 +22,7 @@ https://github.com/csnlp/Dialogue-Generation</br>
 - Well-described NLP blog (in Korean)</br>
 https://wikidocs.net/21667
 
-### Acronyms:
+### Acronyms in the Body:
 
 - JMLR: Journal of Machine Learning Research
 - TACL: Transactions of the Association for Computational Linguistics 
@@ -36,6 +36,17 @@ https://wikidocs.net/21667
 - NAACL: North American Chapter of the Association for Computational Linguistics
 - EMNLP: Conference on Empirical Methods in Natural Language Processing
 - SNL: The Workshop on Speech and Natural Language
+
+#### Featured CL-friendly Venues
+
+- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing, CoNLL** (NLP to CL, in order; quite subjective)
+- **ICASSP, Interspeech, ASRU, SLT** (Spoken language processing)
+- **SIGIR, KDD, ICDM, CIKM** (Information retrieval)
+- **LREC, SemEval** (Resources and evaluation)
+- **WSDM, ICWSM** (Weblogs and social media)
+- **WMT, IWSLT** (Machine and spoken language translation)
+- **CHI, CSCW** (Human-computer interactions)
+
 
 ## Word Representations
 
