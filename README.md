@@ -39,11 +39,14 @@ https://wikidocs.net/21667
 
 #### Featured Language (processing) -friendly Venues
 
-- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing, CoNLL** (Natural language processing and computational linguistics)
+- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoNLL, CoLing** (Natural language processing and computational linguistics)
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
+- **NeurIPS, ICML, ICLR, AAAI** (Intelligence, ML and DL theories)
 - **LREC, SemEval, WMT, IWSLT** (Resources and evaluation)
 - **SIGIR, KDD, ICDM, CIKM** (Information retrieval)
 - **WSDM, ICWSM** (Web and social media)
+- **KR, AKBC** (Knowledge and reasoning)
+- **CogSci** (Cognitive science)
 
 ## Word Representations
 
