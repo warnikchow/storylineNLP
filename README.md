@@ -65,6 +65,8 @@ https://wikidocs.net/21667
 ## Classical NLP Pipeline 
 
 - Collobert et al., [Natural Language Processing (almost) from Scratch](https://arxiv.org/abs/1103.0398), JMLR, 2011.
+
+#### xxBanks
 - Marcus et al., [Building a large annotated corpus of English: The Penn Treebank](https://repository.upenn.edu/cis_reports/237/), 1993. **[PTB]**
 - Palmer et al., [The proposition bank: An annotated corpus of semantic roles](https://www.mitpressjournals.org/doi/abs/10.1162/0891201053630264), CL, 2005. **[PropBank]**
 - Strubell et al., [Linguistically-Informed Self-Attention for Semantic Role Labeling](https://arxiv.org/abs/1804.08199), EMNLP 2018. **[LISA]**
@@ -74,13 +76,13 @@ https://wikidocs.net/21667
 - Pustejovsky and Stubbs, [Natural Language Annotation for Machine Learning](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Natural%20Language%20Annotation%20for%20Machine%20Learning_%20A%20Guide%20to%20Corpus-...%20%5BPustejovsky%20%26%20Stubbs%202012-11-04%5D.pdf), O'Reilly, 2012.
 
 #### Sentiment
+- Bo and Lee, [A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts](https://dl.acm.org/doi/10.3115/1218955.1218990), ACL 2004. **[Subjectivity]**
 - Maas et al., [Learning Word Vectors for Sentiment Analysis](https://dl.acm.org/doi/10.5555/2002472.2002491), ACL 2011. **[IMDB]**
 - Socher et al., [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](https://www.aclweb.org/anthology/D13-1170/), EMNLP 2013. **[SST]**
-- Bo and Lee, [A Sentimental Education: Sentiment Analysis Using Subjectivity Summarization Based on Minimum Cuts](https://dl.acm.org/doi/10.3115/1218955.1218990), ACL 2004. **[Subjectivity]**
 
 #### Intent
+- Hemphill et al., [The ATIS Spoken Language Systems Pilot Corpus](https://www.aclweb.org/anthology/H90-1021/), SNL 1990. **[ATIS]**
 - Stolcke et al., [Dialogue act modeling for automatic tagging and recognition of conversational speech](https://www.mitpressjournals.org/doi/abs/10.1162/089120100561737), CL, 2000. **[SWBD Dialog Act]**
-- Hemphill et al., [The ATIS spoken language systems pilot corpus](https://www.aclweb.org/anthology/H90-1021/), SNL 1990. **[ATIS]**
 - Lugosch et al., [Speech Model Pre-training for End-to-End Spoken Language Understanding](https://arxiv.org/abs/1904.03670), Interspeech 2019. **[Fluent Speech Command]**
 
 ## Sentence-Level Analysis
