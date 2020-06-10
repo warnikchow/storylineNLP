@@ -130,19 +130,23 @@ https://wikidocs.net/21667
 
 ### Referable Conference Lists
 
-#### NLP/SLP/CL/Linguistics
-
-- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoNLL, CoLing** (Natural language processing and computational linguistics)
+#### NLP/CL/SLP/Linguistics
+- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing** (Natural language processing and computational linguistics)
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
-- **LREC, SemEval, WMT, IWSLT** (Resources and evaluation)
-- **SALT, LSA, NELS, ESSLLI** (Theoretical linguistics)
-- **CUNY, AMLaP** (Experimental linguistics)
+- **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical linguistics)
+- **CUNY, AMLaP, CogSci** (Experimental studies)
+- **LREC** (Resources and evaluation)
+
+#### Focused Workshops
+- **SigMorphon, MWE, LAW, SigDial, CoNLL** (Featured ACL SIGs)
+- **WAFL, FDSL, GLOW, JK** (Workshops on specific languages)
+- **BlackboxNLP, WiNLP** (New approaches in NLP)
+- **SemEval, SEM** (Semantic tasks)
+- **WMT, IWSLT** (Translation)
 
 #### A Featured List of Language-friendly Venues
-
 - **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
-- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and data mining)
-- **WWW, WSDM, ICWSM, ISWC** (Web, search, and social media)
+- **WWW, WSDM, ICWSM, ISWC** (Web, search, weblogs and social media)
+- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and mining)
 - **CHI, CSCW, IUI** (Human-computer interaction)
 - **KR, AKBC** (Knowledge and reasoning)
-- **CogSci** (Cognitive science)
