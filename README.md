@@ -37,21 +37,7 @@ https://wikidocs.net/21667
 - EMNLP: Conference on Empirical Methods in Natural Language Processing
 - SNL: The Workshop on Speech and Natural Language
 
-#### NLP/SLP/CL/Linguistics
-
-- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoNLL, CoLing** (Natural language processing and computational linguistics)
-- **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
-- **LREC, SemEval, WMT, IWSLT** (Resources and evaluation)
-- **SALT, LSA, NELS, ESSLLI** (Theoretical linguistics)
-- **CUNY, AMLaP** (Experimental linguistics)
-
-#### A Featured List of Language-friendly Venues
-
-- **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
-- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and data mining)
-- **WWW, WSDM, ICWSM, ISWC** (Web, search, and social media)
-- **KR, AKBC** (Knowledge and reasoning)
-- **CogSci** (Cognitive science)
+---
 
 ## Word Representations
 
@@ -139,3 +125,24 @@ https://wikidocs.net/21667
 
 - Vinyals and Le, [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), ICML Deep Learning Workshop, 2015. **[NCM]**
 - Adiwardana et al., [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977), 2020. **[Meena]**
+
+---
+
+### Conference Lists
+
+#### NLP/SLP/CL/Linguistics
+
+- **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoNLL, CoLing** (Natural language processing and computational linguistics)
+- **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
+- **LREC, SemEval, WMT, IWSLT** (Resources and evaluation)
+- **SALT, LSA, NELS, ESSLLI** (Theoretical linguistics)
+- **CUNY, AMLaP** (Experimental linguistics)
+
+#### A Featured List of Language-friendly Venues
+
+- **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
+- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and data mining)
+- **WWW, WSDM, ICWSM, ISWC** (Web, search, and social media)
+- **CHI, CSCW, IUI** (Human-computer interaction)
+- **KR, AKBC** (Knowledge and reasoning)
+- **CogSci** (Cognitive science)
