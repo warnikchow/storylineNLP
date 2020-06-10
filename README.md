@@ -133,9 +133,9 @@ https://wikidocs.net/21667
 #### NLP/CL/SLP/Linguistics
 - **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing** (Natural language processing and computational linguistics)
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
-- **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical and formallinguistics)
+- **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical and formal linguistics)
 - **CUNY, AMLaP, CogSci** (Experimental and cognitive approaches)
-- **LREC** (Resources and evaluation, corpora)
+- **LREC** (Resources and evaluation)
 
 #### Focused Workshops
 - **MWE, LAW, SigMorphon, SigDial, CoNLL** (Featured ACL SIGs)
