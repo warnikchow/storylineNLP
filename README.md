@@ -128,7 +128,7 @@ https://wikidocs.net/21667
 
 ---
 
-### Referrable Conference Lists
+### Referable Conference Lists
 
 #### NLP/SLP/CL/Linguistics
 
