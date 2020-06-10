@@ -133,16 +133,18 @@ https://wikidocs.net/21667
 #### NLP/CL/SLP/Linguistics
 - **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing** (Natural language processing and computational linguistics)
 - **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
-- **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical linguistics)
-- **CUNY, AMLaP, CogSci** (Experimental studies)
-- **LREC** (Resources and evaluation)
+- **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical and formallinguistics)
+- **CUNY, AMLaP, CogSci** (Experimental and cognitive approaches)
+- **LREC** (Resources and evaluation, corpora)
 
 #### Focused Workshops
-- **SigMorphon, MWE, LAW, SigDial, CoNLL** (Featured ACL SIGs)
-- **WAFL, FDSL, GLOW, JK** (Workshops on specific languages)
-- **BlackboxNLP, WiNLP** (New approaches in NLP)
-- **SemEval, SEM** (Semantic tasks)
-- **WMT, IWSLT** (Translation)
+- **MWE, LAW, SigMorphon, SigDial, CoNLL** (Featured ACL SIGs)
+- **BlackboxNLP, WiNLP, RepL4NLP** (New perspectives in NLP)
+- **WAFL, FDSL, GLOW, JK** (Workshops on language/families)
+- **WMT, IWSLT, EAMT, INLG** (Translation and generation)
+- **SemEval, SEM** (Lexical/computational semantics)
+- **SocialNLP, BioNLP** (Applications)
+- **FAT, GeBNLP** (Ethics)
 
 #### A Featured List of Language-friendly Venues
 - **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
