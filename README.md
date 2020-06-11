@@ -148,7 +148,7 @@ https://wikidocs.net/21667
 
 #### A Featured List of Language-friendly Venues
 - **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
+- **SIGIR, KDD, ICDM, CIKM, ACMMM** (Information retrieval and mining)
 - **WWW, WSDM, ICWSM, ISWC** (Web, search, weblogs and social media)
-- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and mining)
 - **CHI, CSCW, IUI** (Human-computer interaction)
 - **KR, AKBC** (Knowledge and reasoning)
