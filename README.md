@@ -132,7 +132,7 @@ https://wikidocs.net/21667
 
 #### NLP/CL/SLP/Linguistics
 - **EMNLP, ACL, NAACL, EACL, AACL, IJCNLP, CoLing** (Natural language processing and computational linguistics)
-- **ICASSP, Interspeech, ASRU, SLT** (Speech and spoken language processing)
+- **ICASSP, Interspeech, ASRU, SLT, ACMMM** (Speech and spoken language processing)
 - **SALT, LSA, NELS, ESSLLI, WCCFL** (Theoretical and formal linguistics)
 - **CUNY, AMLaP, CogSci** (Experimental and cognitive approaches)
 - **LREC** (Resources and evaluation)
@@ -147,8 +147,8 @@ https://wikidocs.net/21667
 - **FAT, GeBNLP** (Ethics)
 
 #### A Featured List of Language-friendly Venues
-- **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML and DL theories and applications)
-- **SIGIR, KDD, ICDM, CIKM, ACMMM** (Information retrieval and mining)
+- **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML/DL theories and applications)
 - **WWW, WSDM, ICWSM, ISWC** (Web, search, weblogs and social media)
+- **SIGIR, KDD, ICDM, CIKM** (Information retrieval and mining)
 - **CHI, CSCW, IUI** (Human-computer interaction)
 - **KR, AKBC** (Knowledge and reasoning)
