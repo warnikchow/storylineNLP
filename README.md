@@ -147,8 +147,8 @@ https://wikidocs.net/21667
 - **FAT, GeBNLP** (Ethics)
 
 #### A Featured List of Language-friendly Venues
-- **NeurIPS, ICML, ICLR, AAAI, IJCAI** (Intelligence, ML/DL theories and applications)
-- **WWW, WSDM, ICWSM, ISWC** (Web, search, weblogs and social media)
+- **NeurIPS (NIPS), ICML, ICLR, AAAI, IJCAI** (Intelligence, ML/DL theories and applications)
+- **TheWebConf (WWW), WSDM, ICWSM, ISWC** (Web, search, weblogs and social media)
 - **SIGIR, KDD, ICDM, CIKM** (Information retrieval and mining)
 - **CHI, CSCW, IUI** (Human-computer interaction)
 - **KR, AKBC** (Knowledge and reasoning)
